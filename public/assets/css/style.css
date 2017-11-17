@@ -1,0 +1,23 @@
+.colorhelper {
+  background: white;
+}
+
+body {
+  background: #C0C0C0;
+}
+
+.centerthis {
+  padding-left: 35%;
+}
+
+#text-area {
+  background-color: white;
+}
+
+h1 {
+  text-shadow: 3px 3px white;
+}
+
+h4 {
+  text-shadow: 1px 1px black;
+}
